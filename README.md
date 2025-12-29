@@ -3,119 +3,91 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/priyanshsh/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:priyanshshukla930@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/priyanshshukla930/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://github.com/priyanshsh234" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## ✨ About Me
 
-🎓 B.Tech (Electronics & Communication Engineering) student at  
-**Madan Mohan Malaviya University of Technology, Gorakhpur (2022–2026)**  
+🎓 B.Tech (Electronics & Communication Engineering)  
+📍 Madan Mohan Malaviya University of Technology, Gorakhpur  
 
-💻 Full Stack Developer with hands-on experience in **React, JavaScript, Backend APIs, and System Design**  
-📈 Solved **400+ DSA problems** across LeetCode & GFG  
-🌱 Currently building **real-world, production-grade applications**
-
----
-
-## 💼 Experience
-
-### 🔹 Full Stack Developer Intern — **CertiEdge** *(Aug 2025 – Present)*  
-- Built a **full-fledged Aptitude Practice Web Platform** and deployed it on Hostinger  
-- Optimized backend APIs and **reduced response time by 40%**  
-- Contributing to **Emply.ai**, working on real-world skill alignment features  
-
-### 🔹 Software Development Intern — **Singsys Pvt. Ltd.** *(May 2025 – July 2025)*  
-- Worked on **Authorization Module** for Fujifilm project  
-- Improved UI components and UX using **React.js**  
-- Collaborated in a professional agile development environment  
+💻 Passionate about **Full Stack Development**  
+🧠 Strong foundation in **Data Structures & Algorithms**  
+🚀 Love building scalable web applications and learning new technologies  
 
 ---
 
-## 🛠️ Projects
+## 🛠️ Tech Stack
 
-### 🔹 Emply.ai — Skill Alignment Platform  
-**Tech:** React.js, Backend APIs, System Design  
-- AI-driven platform aligning candidate skills with job requirements  
-- Worked on feature development, integrations, and performance improvements  
+### 💻 Languages
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" />
+</p>
 
-### 🔹 Aptitude Test Website  
-**Tech:** React.js, Backend APIs  
-- Topic-wise aptitude practice platform with evaluation system  
-- Backend APIs for question management & progress tracking  
-- 🚀 Deployed on Hostinger  
+### 🎨 Frontend
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45" />
+</p>
 
-🔗 Live: https://cleartest.thecertiedge.com  
-
----
-
-### 🔹 Gemini AI Chatbot Clone  
-**Tech:** React.js, Gemini API, JavaScript  
-- Built a responsive AI chatbot inspired by Gemini  
-- Integrated real-time AI responses with clean UI state management  
-
-🔗 Repo: https://github.com/priyanshsh234/Gemini-clone  
-
----
-
-### 🔹 Authorization System (MERN Stack)  
-**Tech:** MongoDB, Express.js, React.js, Node.js  
-- Secure authentication & authorization system  
-- OTP-based verification and JWT authentication  
-- Role-based access control  
-
-🔗 Repo: https://github.com/priyanshsh234/Authorization  
-
----
-
-## ⚙️ Tech Stack
-
-**Languages:**  
-`C++` `JavaScript` `Python` `SQL`
-
-**Frontend:**  
-`React.js` `HTML5` `CSS3` `Bootstrap`
-
-**Backend & Tools:**  
-`Node.js` `Express.js` `MongoDB` `Next.js` `Kafka`
-
-**Developer Tools:**  
-`Git` `VS Code`
+### ⚙️ Backend & Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="45" />
+</p>
 
 ---
 
 ## 🏆 Achievements
 
+- 🧩 Solved **400+ DSA problems** on LeetCode & GeeksforGeeks  
 - 📜 **NPTEL Certified** in Internet of Things (IoT)  
-- 💡 Solved **400+ DSA problems** on LeetCode & GeeksforGeeks  
+- 👨‍🏫 Mentored juniors in **C++ & Data Structures**
 
 ---
 
-## 🤝 Extra Activities
+## 📊 GitHub Stats
 
-- Mentored juniors in **C++ & Data Structures** (May 2024 – Dec 2024)  
-- Executive Member at **The Social Engineers’ Board** (2023 – 2025)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshsh234&show_icons=true&theme=tokyonight" />
+</p>
 
----
-
-## 📫 Let's Connect
-
-- 📧 Email: **priyanshshukla930@gmail.com**
-- 💼 LinkedIn: https://www.linkedin.com/in/priyanshsh/
-- 🧠 LeetCode: https://leetcode.com/u/priyanshshukla930/
-- 🌐 GitHub: https://github.com/priyanshsh234
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshsh234&theme=tokyonight" />
+</p>
 
 ---
 
-⭐ *If you like my work, consider giving a star to my repositories!*  
+## 📫 Connect With Me
+
+📧 **Email:** priyanshshukla930@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/priyanshsh/  
+🧠 **LeetCode:** https://leetcode.com/u/priyanshshukla930/  
+🌐 **GitHub:** https://github.com/priyanshsh234  
+
+---
+
+⭐ *Thanks for visiting my profile — feel free to explore my repositories!*
+
